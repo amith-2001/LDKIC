@@ -35,7 +35,7 @@ Open your web browser and go to `http://localhost:8501` to view the app.
 
 ### Configuration
 
-To use the OpenAI API, you need to set your API key. Replace `OPEN_API_KEY` in the `streamlit_app.py` file with your actual OpenAI API key:
+To use the OpenAI API, you need to set your API key. Replace `OPEN_API_KEY` in the `app.py` file with your actual OpenAI API key:
 
 ```python
 OPEN_API_KEY = 'your_api_key'
