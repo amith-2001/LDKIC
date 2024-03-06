@@ -19,7 +19,7 @@ Before you begin, ensure you have the following installed:
 
 ### Installation
 
-1. Clone the repository: git clone https://github.com/yourusername/LDKIC.git
+1. Clone the repository: git clone https://github.com/amith-2001/LDKIC.git
 2. Navigate to the project directory
 3. Install required Python packages: pip install -r requirements.txt
 
