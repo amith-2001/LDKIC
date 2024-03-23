@@ -1,4 +1,4 @@
-# Legal Document Key Importance Classifier (LDKIC)
+# Legal Document KeyWord Importance Classifier (LDKIC)
 
 The Legal Document Key Importance Classifier (LDKIC) is a tool designed to analyze legal documents, identifying and classifying sentences based on their importance into categories such as risks, advantages, and ambiguities. Built with Streamlit, PyPDF2, and OpenAI's GPT models, this app provides a user-friendly interface for uploading legal documents and receiving an insightful analysis.
 
