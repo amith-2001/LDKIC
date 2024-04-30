@@ -6,3 +6,4 @@ JsonForm==0.0.2
 jsonschema==4.20.0
 jsonschema-specifications==2023.11.2
 JsonSir==0.0.2
+openai==0.28.0
